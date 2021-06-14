@@ -1,0 +1,20 @@
+body{
+    background-color: #e8e0e5;
+}
+
+h1{
+    font-size: 5em;
+    text-align: center;
+}
+
+.txt-pink{
+    color : #ea2967;
+}
+
+.txt-blue{
+    color : #8f5bef;
+}
+
+strong{
+    font-weight: normal;
+}
